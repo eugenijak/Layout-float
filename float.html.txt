@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+ <head>
+       <title>float</title>
+       <meta charset="utf-8">
+       <link rel="stylesheet" href="style.css" type="text/css"/>
+       </head>
+       
+       
+<body>
+    <div class="conteiner">
+    <header>
+    <div class="mn">
+        <h1>Главная</h1>
+            <ul class="menu1">
+                <li><a href="#">Первый</a></li>
+                <li><a href="#">Второй</a></li>
+                <li><a href="#">Третий</a></li>
+            </ul>
+        </div>
+    </header>
+    
+    <section>
+        <div class="block1">
+    <ul class="menu2">
+             <li><a href="#">Первый</a></li>
+             <li><a href="#">Второй</a></li>
+             <li><a href="#">Третий</a></li>
+   </ul>
+    </div>
+    <div class="block2">
+    <h2>Цвета</h2>
+    <p>Для сохранения единообразия страниц, цвета в Википедии нужно использовать обдуманно. Яркие цвета в статьях должны использоваться только в виде исключения, когда это целесообразно по содержанию (на своей странице участника можете брызгать краской по своему вкусу. В порталах допускается более интенсивная раскраска, но ориентируйтесь на существующие примеры).</p>
+    </div>    
+    
+  
+    </section>
+    
+    <footer>
+   <p class="foot">текст текст</p>
+  </footer>
+    </div>
+    </div>
+</body>
